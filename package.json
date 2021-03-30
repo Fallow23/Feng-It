@@ -1,5 +1,5 @@
 {
-  "name": "agora-app-builder",
+  "name": "feng-it",
   "version": "1.0.0",
   "scripts": {
     "start": "app-builder-init",
@@ -8,6 +8,6 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
-    "agora-app-builder-cli": "0.0.10"
+    "feng-it-cli": "0.0.10"
   }
 }
